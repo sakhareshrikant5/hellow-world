@@ -45,7 +45,7 @@ export default function AdviceTiles() {
       <p><strong>Advice text :</strong> {advice}</p>
       <button onClick={getAdvice}>Get Advice1</button>
       <p>You have read {count} piece of Advice</p>
-      <p><strong>Advice text 1 :</strong> {advice}</p>
+      <p><strong>Advice text 2 :</strong> {advice}</p>
       <button onClick={getAdvice2}>Get Advice 2</button>
     </div>
   )
